@@ -1,0 +1,226 @@
+
+body {
+	background-color: #000000;
+}
+
+#menuBG {
+	margin: 0% auto;
+	width: 700px;
+	border-radius:25px;
+	padding: 40px 0px;
+	opacity: 1;
+}
+
+#menuBG>h1 {
+	font-family: "Arial Black", Gadget, sans-serif;
+	font-size: 75px;
+	color: #CC6052;
+	text-shadow: 5px 5px 5px #fff;
+	margin: -1% 0 0 auto;
+	text-align: center;
+	padding-bottom: 40px;
+}
+
+#frmMenu {
+	font-family: "Arial Black", Gadget, sans-serif;
+	margin: 20px auto;
+	xwidth: 700px;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+	border-radius: 25px;
+}
+
+.menu {
+	flex: 1 150px;
+	min-width: 0;
+	border: 2px solid #080054;
+	box-shadow: 0 0 0 3px rgba(255,255,255, .7);
+	padding: 0 0 30px 0;
+}
+
+.menu:nth-child(even) {
+	background-color: #CCBB99;
+	border-radius: 25px;
+}
+
+.menu:nth-child(odd) {
+	background-color: #FFCE85;
+	border-radius: 25px;
+}
+
+.menu>h3 {
+	color: #fff;
+	text-align: center;
+	margin: 0 auto;
+	background-color: #C4443B;
+	border-radius: 25px 25px 0 0;
+	xtext-shadow: 1.5px 1.5px 5px #00f, 1px 1px 5px #000;
+}
+
+.button {
+	cursor: pointer;
+	color: #fff;
+	width: 100%;
+	display: block;
+	text-decoration: none;
+	border-radius: .5em;
+	margin: 1% auto;
+	padding: .1px 0 .1px 0px;
+    font: 18px sans-serif;
+	background-color: #254057;
+	box-shadow: 0 0 0 2px rgba(255,255,255, .8);
+	transition-property: transform background, box-shadow, color;
+	transition-duration: .3s, .5s, .2s;
+	transition-timing-function: eas-in-out;
+}
+
+.button>p {
+	text-align: center;
+	font-weight: bold;
+}
+
+.button:hover {
+	font: 18px "Arial Black", Gadget, sans-serif;
+	font-weight: bold;
+	color: #000;
+	background-color: rgba(255, 255, 255, .6);
+	box-shadow: 0 0 0 2px #080054;
+}
+
+.controls {
+	display: flex;
+    flex-direction: columns;
+    justify-content: space-between;
+	margin: 0 auto auto auto;
+	width: 100%;
+}
+
+.controls>.button {
+	flex: 1 150px;
+}
+
+#cart {
+	opacity: 0;
+	margin: 0 auto auto auto;
+	width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+    flex-direction: row;
+    justify-content: flex-start;
+    align-items: stretch;
+	background-color: #fff;
+	border: 2px solid #080054;
+	box-shadow: 0 0 0 3px rgba(255,255,255, .8);
+	border-radius: 25px;
+}
+
+#title1 {
+	font-family:sans-serif;
+  color: #fff;
+	flex: 1 250px;
+	height: 50px;
+	width: 250px;
+	padding: 0 0 0px 10px;
+	background-color: #254057;
+	border-radius: 25px 0 0 0;
+}
+
+#title2 {
+	font-family:sans-serif;
+  color: #fff;
+	flex: 1 250px;
+	height: 50px;
+	width: 250px;
+	padding: 0 0 0px 10px;
+	background-color: #254057;
+	border-radius: 0 25px 0 0;
+}
+
+#showText1 {
+	font-size: 18px;
+	flex: 1 250px;
+	padding: 15px 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+}
+
+#showText2 {
+	font-size: 18px;
+	flex: 1 250px;
+	padding: 15px 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+}
+
+#totalPrice1 {
+	flex: 1 250px;
+	padding: 0 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+}
+
+#totalPrice2 {
+	flex: 1 250px;
+	font-weight: bold;
+	padding: 20px 0 10px 10px;
+	width: 250px;
+	border-radius: 0 0 0 0;
+}
+
+/*pizza tutorial css*/
+
+.body_basic {
+	top: 0%;
+	margin: 0 auto;
+	width: 100%;
+	background-color: rgb(242, 239, 237);
+}
+
+#menuBG_basic {
+	top: 0%;
+	margin: 0 auto;
+	width: 90%;
+	background-color: rgb(242, 239, 237);
+}
+
+#menuBG_basic>h1 {
+	color: darkblue;
+	font-family: 60px "Arial Black", Gadget, sans-serif;
+	width: 60%;
+	margin: 0 auto;
+}
+
+#explanation {
+	width: 60%;
+	padding: 2%;
+	margin: 0 auto;
+	background-color: rgb(255, 246, 242);
+	border: 1px solid rgb(211, 104, 59);
+	box-shadow: -1px 5px 15px 1px rgba(211, 104, 59, .3), 3px 5px 10px 2px rgba(0, 0, 0, .4);
+}
+
+#explanation>p {
+	line-height: 1.5em;
+	margin: 2% 0 0 0;
+}
+
+#frmMenu_basic,
+#cart_basic {
+	width: 400px;
+	margin: 0 auto;
+}
+
+#totalPrice {
+	width: 40%;
+	margin: 40px 0 0 0;
+	float: left;
+}
+
+.delivery {
+	float: left;
+	padding-left: 30px;
+	padding-top: 30px;
+}
