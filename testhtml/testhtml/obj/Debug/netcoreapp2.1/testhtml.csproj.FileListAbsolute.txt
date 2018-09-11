@@ -1,0 +1,14 @@
+C:\Users\scfow\OneDrive\Documents\GitHub\Projects\testhtml\testhtml\bin\Debug\netcoreapp2.1\testhtml.deps.json
+C:\Users\scfow\OneDrive\Documents\GitHub\Projects\testhtml\testhtml\bin\Debug\netcoreapp2.1\testhtml.runtimeconfig.json
+C:\Users\scfow\OneDrive\Documents\GitHub\Projects\testhtml\testhtml\bin\Debug\netcoreapp2.1\testhtml.runtimeconfig.dev.json
+C:\Users\scfow\OneDrive\Documents\GitHub\Projects\testhtml\testhtml\bin\Debug\netcoreapp2.1\testhtml.dll
+C:\Users\scfow\OneDrive\Documents\GitHub\Projects\testhtml\testhtml\bin\Debug\netcoreapp2.1\testhtml.pdb
+C:\Users\scfow\OneDrive\Documents\GitHub\Projects\testhtml\testhtml\obj\Debug\netcoreapp2.1\testhtml.csprojAssemblyReference.cache
+C:\Users\scfow\OneDrive\Documents\GitHub\Projects\testhtml\testhtml\obj\Debug\netcoreapp2.1\testhtml.csproj.CoreCompileInputs.cache
+C:\Users\scfow\OneDrive\Documents\GitHub\Projects\testhtml\testhtml\obj\Debug\netcoreapp2.1\testhtml.RazorAssemblyInfo.cache
+C:\Users\scfow\OneDrive\Documents\GitHub\Projects\testhtml\testhtml\obj\Debug\netcoreapp2.1\testhtml.RazorAssemblyInfo.cs
+C:\Users\scfow\OneDrive\Documents\GitHub\Projects\testhtml\testhtml\obj\Debug\netcoreapp2.1\testhtml.AssemblyInfoInputs.cache
+C:\Users\scfow\OneDrive\Documents\GitHub\Projects\testhtml\testhtml\obj\Debug\netcoreapp2.1\testhtml.AssemblyInfo.cs
+C:\Users\scfow\OneDrive\Documents\GitHub\Projects\testhtml\testhtml\obj\Debug\netcoreapp2.1\testhtml.RazorTargetAssemblyInfo.cache
+C:\Users\scfow\OneDrive\Documents\GitHub\Projects\testhtml\testhtml\obj\Debug\netcoreapp2.1\testhtml.dll
+C:\Users\scfow\OneDrive\Documents\GitHub\Projects\testhtml\testhtml\obj\Debug\netcoreapp2.1\testhtml.pdb
